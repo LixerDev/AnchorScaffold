@@ -3,6 +3,7 @@
 CLI that generates complete, working **Anchor/Rust programs** from natural language descriptions. Choose from 8 battle-tested templates or let GPT-4 generate a fully custom program for any idea you describe.
 
 **Built by LixerDev**
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
