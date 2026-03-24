@@ -171,3 +171,6 @@ src/
         ├── marketplace.py
         └── launchpad.py
 ```
+# 🦀 Coin
+
+<img width="1536" height="1024" alt="ChatGPT Image 24 mar 2026, 09_46_50 a m" src="https://github.com/user-attachments/assets/10a878cc-babd-423d-a2e3-d716d2847db6" />
