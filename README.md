@@ -1,6 +1,7 @@
 # 🦀 AnchorScaffold
 
-CLI that generates complete, working **Anchor/Rust programs** from natural language descriptions. Choose from 8 battle-tested templates or let GPT-4 generate a fully custom program for any idea you describe.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0e4ff91-d9d9-4115-b1f0-439e6e6566da" />
+
 
 **Built by LixerDev**
 Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
